@@ -1,0 +1,8 @@
+They have provided four folders. Links are given below:
+1. image_2 	http://www.cvlibs.net/download.php?file=data_object_image_2.zip
+2. velodyne 	http://www.cvlibs.net/download.php?file=data_object_velodyne.zip
+3. label_2 	http://www.cvlibs.net/download.php?file=data_object_label_2.zip
+4. calib 	http://www.cvlibs.net/download.php?file=data_object_calib.zip
+These are the basic dataset files.
+For our convenience, we have reorganized these folders and stored them in the google drive.
+Those google drive links are provided in the readme section of each code.
